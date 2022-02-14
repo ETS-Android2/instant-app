@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-instantapps-16.0.1.aar/b7a9ef863bc18decb960da1b74310925/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/abe29/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/737ef2e6a3bbf6e378ea6365375f825f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/abe29/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/c095346befa2f230065f5d58133d7f43/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/62bcf7b151f12868ec6369fc1017055c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b32d9c39ffc52d08afb403ca6c218bed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/416e356f4a0dffbe2e2f95bddd35e5b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ee70a35a88278a2421e1195cf916ccb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/57f3f475f274ed2f65758b09917df73a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a04c6633ec7a99096a15d48d72ff7fff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/330f0d8dca29f920b5624a5be81466d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca9f67266c9e02dc1514dcf3b10e58d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13baf9b7a5a12b4494c6ea6cb1e2e9b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cf02d81bdf4c634280fa6e2f28303639/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/000ab29d774348471144b21c5e6a1ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fefff4b68aefb3d78a62e64b7025be71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b839cde286f93585f8713717dabc3e0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d64bfb1ec77b30204453b1d26759327f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b18573783e7a891ddb143226c9cf2c51/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/016c6bd00109d5c37b8033ce9e53d5aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/46a9edec19ed2a605a8e0403697a6741/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1103b794107ab5518fd1d242f5449c24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d4139e0eec16fc4bc806c61a055f83be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/196781ba94a86ba4d32fc3c75263a7c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f25b8dbfd0d1c7ad7ac792c6f03671b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/68695beee944dccbc62d29ee6fbc3df3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0d2b0d1b7ec1c9eb2d110c3c83f15edf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/88adc8f5af463380ce44eea22179eb56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/098aee70d47fb04e4db91c5fb2bf09e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0e05c9056f32bd87070d4f4ae28a337f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6af540cac14376f6e8d5a20c45e120f0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+	package
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:19:5-61
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:18:5-61
+	android:versionCode
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:1-63:12
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:17:11-69
+dist:module
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:21:5-40
+	dist:instant
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:21:18-37
+application
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:22:5-62:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/abe29/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/c095346befa2f230065f5d58133d7f43/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/abe29/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/c095346befa2f230065f5d58133d7f43/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/62bcf7b151f12868ec6369fc1017055c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/62bcf7b151f12868ec6369fc1017055c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/46a9edec19ed2a605a8e0403697a6741/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/46a9edec19ed2a605a8e0403697a6741/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:23:9-35
+activity#com.google.android.instantapps.samples.install.InstallApiActivity
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:26:9-61:20
+	android:label
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:28:13-57
+	android:theme
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:27:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:31:13-34:29
+	android:label
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:31:28-60
+action#android.intent.action.MAIN
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:33:27-74
+meta-data#default-url
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:36:13-38:76
+	android:value
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:38:17-73
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:37:17-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:install-api.instantappsample.com+data:scheme:https
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:40:13-49:29
+	android:order
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:40:28-45
+action#android.intent.action.VIEW
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:44:27-75
+data
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:46:17-48:71
+	android:host
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:48:21-68
+	android:scheme
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:47:21-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:install-api.instantappsample.com+data:scheme:http
+ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:50:13-59:29
+	android:order
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml:50:28-45
+uses-sdk
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-instantapps-16.0.1.aar/b7a9ef863bc18decb960da1b74310925/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-instantapps-16.0.1.aar/b7a9ef863bc18decb960da1b74310925/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/abe29/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/737ef2e6a3bbf6e378ea6365375f825f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/abe29/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/737ef2e6a3bbf6e378ea6365375f825f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/abe29/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/c095346befa2f230065f5d58133d7f43/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/abe29/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/c095346befa2f230065f5d58133d7f43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/62bcf7b151f12868ec6369fc1017055c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/62bcf7b151f12868ec6369fc1017055c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b32d9c39ffc52d08afb403ca6c218bed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b32d9c39ffc52d08afb403ca6c218bed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/416e356f4a0dffbe2e2f95bddd35e5b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/416e356f4a0dffbe2e2f95bddd35e5b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ee70a35a88278a2421e1195cf916ccb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ee70a35a88278a2421e1195cf916ccb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/57f3f475f274ed2f65758b09917df73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/57f3f475f274ed2f65758b09917df73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a04c6633ec7a99096a15d48d72ff7fff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a04c6633ec7a99096a15d48d72ff7fff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/330f0d8dca29f920b5624a5be81466d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/330f0d8dca29f920b5624a5be81466d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca9f67266c9e02dc1514dcf3b10e58d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/ca9f67266c9e02dc1514dcf3b10e58d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13baf9b7a5a12b4494c6ea6cb1e2e9b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13baf9b7a5a12b4494c6ea6cb1e2e9b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cf02d81bdf4c634280fa6e2f28303639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cf02d81bdf4c634280fa6e2f28303639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/000ab29d774348471144b21c5e6a1ffd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/000ab29d774348471144b21c5e6a1ffd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fefff4b68aefb3d78a62e64b7025be71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fefff4b68aefb3d78a62e64b7025be71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b839cde286f93585f8713717dabc3e0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b839cde286f93585f8713717dabc3e0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d64bfb1ec77b30204453b1d26759327f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d64bfb1ec77b30204453b1d26759327f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b18573783e7a891ddb143226c9cf2c51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b18573783e7a891ddb143226c9cf2c51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/016c6bd00109d5c37b8033ce9e53d5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/016c6bd00109d5c37b8033ce9e53d5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7183f9327d7be8985530a1129ded2f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/46a9edec19ed2a605a8e0403697a6741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/46a9edec19ed2a605a8e0403697a6741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1103b794107ab5518fd1d242f5449c24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1103b794107ab5518fd1d242f5449c24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d4139e0eec16fc4bc806c61a055f83be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d4139e0eec16fc4bc806c61a055f83be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/196781ba94a86ba4d32fc3c75263a7c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/196781ba94a86ba4d32fc3c75263a7c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f25b8dbfd0d1c7ad7ac792c6f03671b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f25b8dbfd0d1c7ad7ac792c6f03671b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/68695beee944dccbc62d29ee6fbc3df3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/68695beee944dccbc62d29ee6fbc3df3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0d2b0d1b7ec1c9eb2d110c3c83f15edf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0d2b0d1b7ec1c9eb2d110c3c83f15edf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/88adc8f5af463380ce44eea22179eb56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/88adc8f5af463380ce44eea22179eb56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/098aee70d47fb04e4db91c5fb2bf09e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/098aee70d47fb04e4db91c5fb2bf09e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0e05c9056f32bd87070d4f4ae28a337f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/0e05c9056f32bd87070d4f4ae28a337f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6af540cac14376f6e8d5a20c45e120f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abe29/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6af540cac14376f6e8d5a20c45e120f0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/8453acdb06d57105bcba456d1a7a3609/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/abe29/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/4bd6f232f8674ee807f523418852e2be/AndroidManifest.xml:24:13-58

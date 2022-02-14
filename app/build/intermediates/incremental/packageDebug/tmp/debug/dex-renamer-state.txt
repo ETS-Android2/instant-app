@@ -1,0 +1,4 @@
+#Mon Feb 14 15:32:46 GMT 2022
+base.0=/Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

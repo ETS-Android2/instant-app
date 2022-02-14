@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 14 15:32:47 GMT 2022
+0.base=/Users/abe29/src/instant/app-bundle-samples/InstantApps/install-api/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
